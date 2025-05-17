@@ -59,13 +59,3 @@ This is a **Markdown** example.
 console.log('Hello, Markdown!');
 ```
 ```
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## 🛡️ License
-[MIT](LICENSE)
-
----
-
-> Created with ❤️ using React and [marked](https://github.com/markedjs/marked)
