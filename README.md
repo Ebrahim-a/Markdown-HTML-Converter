@@ -22,8 +22,6 @@ A modern, React-based web application for converting Markdown files to clean, st
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/markdown-to-html-converter.git
-cd markdown-to-html-converter
 
 # Install dependencies
 npm install
